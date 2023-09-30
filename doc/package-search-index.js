@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.eazybytes"},{"l":"com.eazybytes.config"},{"l":"com.eazybytes.controller"},{"l":"com.eazybytes.Entity"},{"l":"com.eazybytes.repository"},{"l":"com.eazybytes.service"}];updateSearchResults();
